@@ -9,15 +9,13 @@ Polyleven -- Fast Pythonic Levenshtein Library
 
 polyleven is a Pythonic Levenshtein distance library that:
 
-- Is *fast* independent of input types, and hence can be used for
-  both short (like English words) and long input types (like DNA
-  sequences).
+- Is **fast** independent of input types, and hence can be applied to
+  both short (like English words) and long inputs (like DNA sequences).
 
-- Is *stand-alone* depending only on core Python packages (such as
-  ``setuptools`` for installation).
+- Is **stand-alone** depending only on core Python packages.
 
-- Can be used readily in a manner not covered by restrictive
-  licenses such as GPL, hence can be used freely in private codes.
+- Is distributed under the **MIT License**, hence can be used freely
+  in private projects.
 
 2. How to install
 =================
